@@ -22,8 +22,8 @@ import (
 
 	"github.com/shurcooL/vfsgen"
 
+	"github.com/GoogleCloudPlatform/alertmanager/pkg/modtimevfs"
 	"github.com/prometheus/alertmanager/asset"
-	"github.com/prometheus/alertmanager/pkg/modtimevfs"
 )
 
 func main() {
